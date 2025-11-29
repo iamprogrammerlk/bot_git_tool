@@ -133,13 +133,14 @@ create_root_directory_conf()
     style_foreground_purple_bold "$msg_02"
     new_line
     empty_line
-    # Copy git_list.sh to user bin to run anywhere in the system
-    if [ ! -f "/usr/local/bin/gitlist" ]; then
-      echo "Please enter your user password to continue:"
-      script_name=$(basename "$(realpath "${BASH_SOURCE[0]}")")
-      sudo ln -s "$APP_ROOT/$script_name" /usr/local/bin/gitlist
-      empty_line
-    fi
+  fi
+
+  # Copy git_list.sh to user bin to run anywhere in the system
+  if [ ! -f "/usr/local/bin/gitlist" ]; then
+    echo "Please enter your user password to continue:"
+    script_name=$(basename "$(realpath "${BASH_SOURCE[0]}")")
+    sudo ln -s "$APP_ROOT/$script_name" /usr/local/bin/gitlist
+    empty_line
   fi
 }
 
