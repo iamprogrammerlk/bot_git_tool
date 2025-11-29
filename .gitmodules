@@ -1,0 +1,4 @@
+[submodule "source/prettybash"]
+	path = source/prettybash
+	url = https://github.com/prettybash/prettybash.git
+
