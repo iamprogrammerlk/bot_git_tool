@@ -77,5 +77,5 @@ _This governance document may evolve as the project grows. Major changes will be
 [contributing]: /contributing.md
 [code_of_conduct]: /code_of_conduct.md
 [contributor_license_agreement]: /contributor_license_agreement.md
-[community]: https://reddit.com/r/{{PROJECT_REDDIT_USERNAME}}
-[support_email]: mailto:{{PROJECT_SUPPORT_EMAIL}}
+[community]: https://reddit.com/r/iamprogrammerlk
+[support_email]: mailto:bot_git_tool@iamprogrammer.lk

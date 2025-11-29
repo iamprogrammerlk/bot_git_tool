@@ -4,17 +4,17 @@
 <br>
 
 <div align="center" style="text-align: center;">
-  <a href="https://{{PROJECT_URL}}">
-    <img src="resource/prettybash_logo_cover_3840×2160.png" alt="{{PROJECT_TITLE}}" width="100%">
+  <a href="https://iamprogrammer.lk/bot_git_tool">
+    <img src="resource/prettybash_logo_cover_3840×2160.png" alt="Bot Git Tool" width="100%">
   </a>
 </div>
 
 <br>
 <br>
 
-# {{PROJECT_TITLE}}
+# Bot Git Tool
 
-{{PROJECT_DESCRIPTION}}
+A collection of Bash script tools made to simplify and speed up your GIT workflow automation.
 
 <br>
 <br>
@@ -188,7 +188,7 @@ See [license][license_md] for more information.
 [license]: https://choosealicense.com/licenses/osl-3.0/
 [license_md]: /license.md
 [security_advisories]: /../../security/advisories/new
-[community]: https://reddit.com/r/{{PROJECT_GITHUB_USERNAME}}
-[documentation]: https://{{PROJECT_DOCUMENTATION_URL}}
-[api_documentation]: https://{{PROJECT_API_DOCUMENTATION_URL}}
-[youtube]: https://youtube.com/@{{PROJECT_YOUTUBE_USERNAME}}
+[community]: https://reddit.com/r/iamprogrammerlk
+[documentation]: https://iamprogrammer.lk/bot_git_tool
+[api_documentation]: https://iamprogrammer.lk/bot_git_tool
+[youtube]: https://youtube.com/@iamprogrammerlk

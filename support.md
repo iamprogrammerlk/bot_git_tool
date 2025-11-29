@@ -63,8 +63,8 @@ If your issue isn't getting attention:
 
 [issues]: /../../issues
 [contributors]: /../../graphs/contributors
-[documentation]: https://PROJECT_DOCUMENTATION_URL}}
-[api_documentation]: https://{{PROJECT_API_DOCUMENTATION_URL}}
-[community]: https://reddit.com/r/{{PROJECT_REDDIT_USERNAME}}
-[support_email]: mailto:{{PROJECT_SUPPORT_EMAIL}}
-[youtube]: https://youtube.com/@{{PROJECT_YOUTUBE_USERNAME}}
+[documentation]: https://iamprogrammer.lk/bot_git_tool
+[api_documentation]: https://iamprogrammer.lk/bot_git_tool
+[community]: https://reddit.com/r/iamprogrammerlk
+[support_email]: mailto:bot_git_tool@iamprogrammer.lk
+[youtube]: https://youtube.com/@iamprogrammerlk

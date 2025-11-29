@@ -133,4 +133,4 @@ You can view our list of [Contributors][contributors].
 [changelog]: /changelog.md
 [contributor_license_agreement]: /contributor_license_agreement.md
 [contributors]: /../../graphs/contributors
-[community]: https://reddit.com/r/{{PROJECT_REDDIT_USERNAME}}
+[community]: https://reddit.com/r/iamprogrammerlk
