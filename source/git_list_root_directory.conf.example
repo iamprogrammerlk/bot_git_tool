@@ -2,6 +2,6 @@
 #
 # List all directory absolute paths, one per line.
 #
-/home/USERNAME/
+/home/{{USERNAME}}/
 /mnt/warehouse/client
 /mnt/warehouse/project
