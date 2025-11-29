@@ -1,0 +1,7 @@
+# Bot GIT Tool - GIT List - 25.10.00
+#
+# List all directory absolute paths, one per line.
+#
+/home/USERNAME/
+/mnt/warehouse/client
+/mnt/warehouse/project
